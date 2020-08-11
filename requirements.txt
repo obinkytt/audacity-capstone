@@ -6,3 +6,5 @@ flasgger
 pylint
 requests
 sensible
+pandas
+click
