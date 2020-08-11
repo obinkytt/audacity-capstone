@@ -1,0 +1,8 @@
+pylint
+pytest
+Flask
+escape
+flasgger
+pylint
+requests
+sensible
