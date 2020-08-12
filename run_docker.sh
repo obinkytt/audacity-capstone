@@ -5,6 +5,8 @@
 # Build image and add a descriptive tag
 docker build -t maweeks/devops .
 
+docker build -t webapp  .
+
 # List docker images
 docker image ls
 
