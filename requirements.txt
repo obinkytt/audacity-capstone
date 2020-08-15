@@ -1,10 +1,8 @@
-pylint
-pytest
-Flask
-escape
-flasgger
-pylint
-requests
-sensible
-pandas
 click
+pytest
+pylint
+ipython
+flask
+Flask-API
+requests
+black

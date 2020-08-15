@@ -3,7 +3,7 @@
 ## Complete the following steps to get Docker running locally
 
 # Build image and add a descriptive tag
-docker build -t webapp
+docker build -t webapp .
 
 
 # List docker images
