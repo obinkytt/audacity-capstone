@@ -3,12 +3,12 @@
 ## Complete the following steps to get Docker running locally
 
 # Build image and add a descriptive tag
-docker build -t maweeks/devops .
+docker build -t webapp
 
-docker build -t webapp  .
 
 # List docker images
 docker image ls
 
 # Run flask app
-docker run -p 8000:80 maweeks/devops
+
+docker run -p 8000:5001 webapp.
