@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/ec2-user/environment/audacity_Capstone/capstone"
+set -gx VIRTUAL_ENV "/home/ec2-user/environment/audacity-capstone/capstone"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
