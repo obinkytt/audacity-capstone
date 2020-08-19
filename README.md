@@ -1,3 +1,3 @@
 # Audacity DevOps Capstone -Williams Obinkyereh
 
-#### Summary of the project
+## Summary of the project
