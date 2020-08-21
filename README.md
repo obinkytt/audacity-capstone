@@ -128,6 +128,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 #### $ docker image ls
 
 
+![Docker_image](https://user-images.githubusercontent.com/4149567/90942028-a42c5a80-e3d9-11ea-83c4-f23e85cf9031.jpg)
+
 
 
 
