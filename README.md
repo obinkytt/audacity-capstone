@@ -57,6 +57,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ### Command to get rsa key to connect cloud9 to Github Repository
 
 #### $ ssh-keygen -t rsa
+#### $ cat /home/ec2-user/.ssh/id_rsa.pub
+
 
 
 
