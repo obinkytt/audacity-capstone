@@ -68,7 +68,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ### Activate virtual enviroment
 #### $ source capstone/bin/activate
 
-#### I create the following file and folders: 
+### I created the following file and folders: 
 #### makefile, requirement.txt, Dockerfile, webapp.py, template/index.html, .circleci/config.yml, run_docker.sh, run_kubernetes.sh and readme.md
 
 
