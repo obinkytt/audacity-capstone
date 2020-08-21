@@ -65,7 +65,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ### Prepare pyhton virtual enviroment in AWS Cloud9
 #### $ python3 -m venv capstone
 
-### Activate evnv enviroment
+### Activate virtual enviroment
 #### $ source capstone/bin/activate
 
 
