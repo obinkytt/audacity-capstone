@@ -96,8 +96,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 #### Add port 8080 to all tracfic
 #### copy EC2 port and paste it in a browser and add port 8080
 
-
-
+![webapp](https://user-images.githubusercontent.com/4149567/90941473-dc329e00-e3d7-11ea-84f9-28aeb4ff8204.jpg)
 
 
 ### Test code with circleci using .circleci/config.yml
