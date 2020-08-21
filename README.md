@@ -31,5 +31,23 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 #### 5. I pushed my docker image from docker container to Amazon Elastic Container Registry (Amazon ECR).
 #### 6. I used cloudFormation to deploy my Appliaction immage in AWS ECR to Amazon Elastic Container Service (Amazon ECS).
 #### 7. I also deployed my appliaclication image in AWS ECR to Amazon Elastic Kubernetes Service (Amazon EKS) using EKS Cluster and CloudFormation.
+
+## Software, applications and eviroments used in this Project:
+#### 1. AWS Cloud9
+#### 2. Github Repository
+#### 3. Github Desktop for Windows
+#### 4. MacOS on Vmware WorkStation
+#### 5. Docker and Kubernetes on macos
+#### 6. Visual Studio Code for Windows
+#### 7. Windows 10 Powershell
+#### 8. circleci
+#### 9. chocolatey (installation manager for Windows)
+#### 10. Minikube
+#### 11. Kubectl
+
+## Amazon AWS seivices used in this project:
+### AWS CloudFormation for building stacks for VPCs, EKS clusters, EKS Worker Nodes and AWS ECS container
+### AWS ECS, AWS ECR, AWS ECR and AWS cloud9
+
     
 
