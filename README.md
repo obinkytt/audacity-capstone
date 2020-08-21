@@ -71,6 +71,12 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ### I created the following file and folders: 
 #### makefile, requirement.txt, Dockerfile, webapp.py, template/index.html, .circleci/config.yml, run_docker.sh, run_kubernetes.sh and readme.md
 
+### I run my make install (This should be run from inside a virtualenv)
+#### pip install --upgrade pip &&\pip install -r requirements.txt
+
+### Command
+#### $ make install
+
 
 
 
