@@ -99,6 +99,10 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ## Docker Build using Dockerfile
 
+### Command
+
+#### $ docker build -t webapp .
+
 
 
 
