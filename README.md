@@ -22,7 +22,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 #### In the capstone project, each project is unique to the student. You’ll build a CI/CD pipeline for a microservices application for different deployment strategies. Students define the scope of the project and select the right deployment strategy based on different business requirements.
 
 
-## Sammury of my Project.
+## Summary of my Project.
 
 #### 1. I developed a python flask appliaction called webapp with python and HTML. The HTML is in Template folder
 #### 2. I used WAS Cloud9 enviroment and Github to develop the application. The was a push and pull and commits beteween AWS Cloud9 and Github repository
