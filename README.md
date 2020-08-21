@@ -87,6 +87,9 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![app](https://user-images.githubusercontent.com/4149567/90939190-9faf7400-e3d0-11ea-8bd7-db1dbfeed0b6.jpg)
 
+### Test code with circleci using .circleci/config.yml
+
+
 
 
 
