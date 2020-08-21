@@ -25,9 +25,9 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ## Summary of my Project.
 
 ##### 1. I developed a python flask appliaction called webapp with python and HTML. The HTML is in Template folder
-##### 2. I used WAS Cloud9 enviroment and Github to develop the application. The was a push and pull and commits beteween AWS Cloud9 and Github repository
-##### 3. I pushed the appliaction to Docker for a docker for docker build to obtain a docker image.
-##### 4. I used circleci for countinous testing  and continues intergration of my code and build.
+##### 2. I used AWS Cloud9 enviroment and Github to develop the application. Then I can push and pull and commits beteween AWS Cloud9 and Github repository
+##### 3. I pushed the application to Docker for docker build and got a docker image.
+##### 4. I used circleci for countinous testing  and continous intergration of my code and build.
 ##### 5. I pushed my docker image from docker container to Amazon Elastic Container Registry (Amazon ECR).
 ##### 6. I used cloudFormation to deploy my Appliaction immage in AWS ECR to Amazon Elastic Container Service (Amazon ECS).
 ##### 7. I also deployed my appliaclication image in AWS ECR to Amazon Elastic Kubernetes Service (Amazon EKS) using EKS Cluster and CloudFormation.
@@ -51,7 +51,9 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ##### AWS ECS, AWS ECR, AWS ECR and AWS cloud9
 
 ##  -----------------------The Project--------------------------------
+### Preparing the project ernviroment
 ##### Login to Github and create a new repository (audacity-capstone )
+##### I created the neceaasry folders and file. (See the Github Reposotory for folders and file created)
 ##### Login to AWS Management Console and start Cloud9 to prepare the coding enviroment.
 
 ### Command to get rsa key to connect cloud9 to Github Repository
@@ -59,6 +61,12 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 #### $ ssh-keygen -t rsa
 #### $ cat /home/ec2-user/.ssh/id_rsa.pub
 ![Cloud9-1](https://user-images.githubusercontent.com/4149567/90931329-12fdb980-e3c2-11ea-92aa-bc25b42a2484.jpg)
+
+### Prepare pyhton virtual enviroment in AWS Cloud9
+#### $ python3 -m venv capstone
+
+### Activate evnv enviroment
+#### $ source capstone/bin/activate
 
 
 
