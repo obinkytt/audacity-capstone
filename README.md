@@ -46,6 +46,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ##### 11. Kubectl
 
 ## Amazon AWS seivices used in this project:
+##### AWS Account, AWS Identity and Access Management (IAM)
 ##### AWS CloudFormation for building stacks for VPCs, EKS clusters, EKS Worker Nodes and AWS ECS container
 ##### AWS ECS, AWS ECR, AWS ECR and AWS cloud9
 
