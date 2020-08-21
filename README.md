@@ -78,12 +78,14 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ### Command
 #### $ make install
 
+
 ![makeinstall](https://user-images.githubusercontent.com/4149567/90936487-dd110300-e3ca-11ea-8ff6-768e9b781995.jpg)
 
 ### Testing my FLASK APP on port 5000
 ### Cammand:
 #### $ export FLASK_APP=myapp.py
 #### $ flask run
+
 
 ![app](https://user-images.githubusercontent.com/4149567/90939190-9faf7400-e3d0-11ea-8bd7-db1dbfeed0b6.jpg)
 
