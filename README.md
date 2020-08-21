@@ -76,6 +76,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ### Command
 #### $ make install
+![makeinstall](https://user-images.githubusercontent.com/4149567/90936487-dd110300-e3ca-11ea-8ff6-768e9b781995.jpg)
 
 
 
