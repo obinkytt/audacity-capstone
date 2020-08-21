@@ -51,7 +51,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ##### AWS ECS, AWS ECR, AWS ECR and AWS cloud9
 
 ##           The Project
-##          --------------
+             ___________
+
 
     
 
