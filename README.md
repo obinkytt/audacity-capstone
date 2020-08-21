@@ -89,6 +89,17 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![app](https://user-images.githubusercontent.com/4149567/90939190-9faf7400-e3d0-11ea-8bd7-db1dbfeed0b6.jpg)
 
+### Test Flask webapp in AWS cloud9 virtualenv 
+### run commad: 
+#### $ python webapp.py
+#### Then go to AWS EC2 instance and edit security gruops inboud rules
+#### Add port 8080 to all tracfic
+#### copy EC2 port and paste it in a browser and add port 8080
+
+
+
+
+
 ### Test code with circleci using .circleci/config.yml
 
 ![CiecleC1 1](https://user-images.githubusercontent.com/4149567/90939873-80194b00-e3d2-11ea-942f-f89218ff279d.jpg)
