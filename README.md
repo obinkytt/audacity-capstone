@@ -72,7 +72,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 #### makefile, requirement.txt, Dockerfile, webapp.py, template/index.html, .circleci/config.yml, run_docker.sh, run_kubernetes.sh and readme.md
 
 ### I run my make install (This should be run from inside a virtualenv)
-#### pip install --upgrade pip &&\pip install -r requirements.txt
+#### This will run pip install --upgrade pip &&\pip install -r requirements.txt and install all the necessary software for the application to run
 
 ### Command
 #### $ make install
