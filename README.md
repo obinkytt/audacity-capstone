@@ -58,6 +58,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 #### $ ssh-keygen -t rsa
 #### $ cat /home/ec2-user/.ssh/id_rsa.pub
+![Cloud9-1](https://user-images.githubusercontent.com/4149567/90931329-12fdb980-e3c2-11ea-92aa-bc25b42a2484.jpg)
+
 
 
 
