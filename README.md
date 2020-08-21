@@ -107,7 +107,9 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![CiecleC1 2](https://user-images.githubusercontent.com/4149567/90939952-bbb41500-e3d2-11ea-9e7a-e2ae7bc9f97d.jpg)
 
-## Docker Build using Dockerfile
+## We have tested my webapp and have tested my code with circleci. Time to do a Docker Build
+
+### Docker Build using Dockerfile
 
 ### Command
 
