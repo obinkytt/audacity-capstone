@@ -121,6 +121,12 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![ECR build](https://user-images.githubusercontent.com/4149567/90940793-ae4c5a00-e3d5-11ea-9f9c-e35498ff6b1a.jpg)
 
+### List docker build
+
+### Command
+
+#### $ docker image ls
+
 
 
 
