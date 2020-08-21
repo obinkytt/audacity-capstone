@@ -24,9 +24,9 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ## Sammury of my Project.
 
-#### 1. I developed a python flask appliaction called webapp which python code and HTML. The HTML is in Template folder and is called by the flask
-#### 2. The application was developed in enviroment using AWS Cloud9 and Github. The was a push and pull and commits beteween AWS Cloud9 and Github repository
-#### 3. The appalication was pushed to Docker to build a docker container and and docker image.
+#### 1. I developed a python flask appliaction called webapp with python and HTML. The HTML is in Template folder
+#### 2. I used WAS Cloud9 enviroment and Github to develop the application. The was a push and pull and commits beteween AWS Cloud9 and Github repository
+#### 3. I pushed the appliaction to Docker for a docker for docker build to obtain a docker image.
 #### 4. I used circleci for countinous testing  and continues intergration of my code and build.
 #### 5. I pushed my docker image from docker container to Amazon Elastic Container Registry (Amazon ECR).
 #### 6. I used cloudFormation to deploy my Appliaction immage in AWS ECR to Amazon Elastic Container Service (Amazon ECS).
