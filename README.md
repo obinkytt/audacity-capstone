@@ -54,6 +54,11 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ##### Login to Github and create a new repository (audacity-capstone )
 ##### Login to AWS Management Console and start Cloud9 to prepare the coding enviroment.
 
+### Command to get rsa key to connect cloud9 to Github Repository
+
+#### $ ssh-keygen -t rsa
+
+
 
 
             
