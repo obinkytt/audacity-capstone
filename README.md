@@ -172,13 +172,16 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ### Time to deploy the application on ECS Cluster in Amazon AWS
 
-#### Step 1: Register a task definition
+### Step 1: Register a task definition
 
-#### Stap 2 Create a cluster
+### Stap 2 Create a cluster
 
 ![ECS Cluster](https://user-images.githubusercontent.com/4149567/90949705-ff793f80-e40f-11ea-9138-734f41a6896f.jpg)
 
-#### Step 3: Create a Service in a cluster
+### Cluster Resources
+
+
+### Step 3: Create a Service in a cluster
 
 
 
