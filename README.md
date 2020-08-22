@@ -189,6 +189,10 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![ECS ser2](https://user-images.githubusercontent.com/4149567/90963123-e194f480-e47a-11ea-957f-c55577be460b.jpg)
 
+## The task is runing to deploy Application
+
+![new Task run](https://user-images.githubusercontent.com/4149567/90963314-37b66780-e47c-11ea-98f4-3bc1d44bc8a7.jpg)
+
 
 
 
