@@ -147,6 +147,10 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ### Click on the Respository name and then the view push command and go to the push command page
 
 
+![ecr push comd](https://user-images.githubusercontent.com/4149567/90947145-21b39300-e3f9-11ea-8e22-0a2eba7336a2.jpg)
+
+
+
 
 
 
