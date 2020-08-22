@@ -219,9 +219,12 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![ecsportIP3](https://user-images.githubusercontent.com/4149567/90964455-620d2280-e486-11ea-83a7-cc7d65671189.jpg)
 
-# Copy and paste IP Address and add port 8080 to access the Application.
+## Copy and paste IP Address and add port 8080 to access the Application.
 
 ## 54.165.145.123:8080 
+
+![ecsport8080](https://user-images.githubusercontent.com/4149567/90964550-32aae580-e487-11ea-8487-d1a069844ba9.jpg)
+
 
 
 
