@@ -212,6 +212,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ## We can find the application deploymnet IP Address here
 
+![ecsportIP2](https://user-images.githubusercontent.com/4149567/90964187-e5794480-e483-11ea-935c-64f379f81d52.jpg)
+
 
 
 
