@@ -1,0 +1,124 @@
+ "Parameters": {
+        "EcsClusterName": {
+            "Type": "String",
+            "Description": "Specifies the ECS Cluster Name with which the resources would be associated\n",
+            "Default": "default"
+        },
+        "IsFargate": {
+            "Type": "String",
+            "Description": "Optional - Whether to create resources only for running Fargate tasks.",
+            "Default": "true"
+        },
+        "EcsAmiId": {
+            "Type": "String",
+            "Description": "Optional - Specifies the AMI ID for your container instances.",
+            "Default": ""
+        },
+        "EcsInstanceType": {
+            "Type": "String",
+            "Description": "Specifies the EC2 instance type for your container instances. Defaults to m4.large\n",
+            "Default": "m4.large",
+            "ConstraintDescription": "must be a valid EC2 instance type."
+        },
+        "KeyName": {
+            "Type": "String",
+            "Description": "Optional - Specifies the name of an existing Amazon EC2 key pair to enable SSH access to the EC2 instances in your cluster.\n",
+            "Default": ""
+        },
+        "VpcId": {
+            "Type": "String",
+            "Description": "Optional - Specifies the ID of an existing VPC in which to launch your container instances. If you specify a VPC ID, you must specify a list of existing subnets in that VPC. If you do not specify a VPC ID, a new VPC is created with atleast 1 subnet.\n",
+            "Default": "",
+            "ConstraintDescription": "VPC Id must begin with 'vpc-' or leave blank to have a new VPC created\n"
+        },
+        "SubnetIds": {
+            "Type": "CommaDelimitedList",
+            "Description": "Optional - Specifies the Comma separated list of existing VPC Subnet Ids where ECS instances will run\n",
+            "Default": ""
+        },
+        "SecurityGroupId": {
+            "Type": "String",
+            "Description": "Optional - Specifies the Security Group Id of an existing Security Group. Leave blank to have a new Security Group created\n",
+            "Default": ""
+        },
+        "VpcCidr": {
+            "Type": "String",
+            "Description": "Optional - Specifies the CIDR Block of VPC",
+            "Default": ""
+        },
+        "SubnetCidr1": {
+            "Type": "String",
+            "Description": "Specifies the CIDR Block of Subnet 1",
+            "Default": ""
+        },
+        "SubnetCidr2": {
+            "Type": "String",
+            "Description": "Specifies the CIDR Block of Subnet 2",
+            "Default": ""
+        },
+        "SubnetCidr3": {
+            "Type": "String",
+            "Description": "Specifies the CIDR Block of Subnet 3",
+            "Default": ""
+        },
+        "AsgMaxSize": {
+            "Type": "Number",
+            "Description": "Specifies the number of instances to launch and register to the cluster. Defaults to 1.\n",
+            "Default": "1"
+        },
+        "IamRoleInstanceProfile": {
+            "Type": "String",
+            "Description": "Specifies the Name or the Amazon Resource Name (ARN) of the instance profile associated with the IAM role for the instance\n",
+            "Default": ""
+        },
+        "SecurityIngressFromPort": {
+            "Type": "Number",
+            "Description": "Optional - Specifies the Start of Security Group port to open on ECS instances - defaults to port 0\n",
+            "Default": "0"
+        },
+        "SecurityIngressToPort": {
+            "Type": "Number",
+            "Description": "Optional - Specifies the End of Security Group port to open on ECS instances - defaults to port 65535\n",
+            "Default": "65535"
+        },
+        "SecurityIngressCidrIp": {
+            "Type": "String",
+            "Description": "Optional - Specifies the CIDR/IP range for Security Ports - defaults to 0.0.0.0/0\n",
+            "Default": "0.0.0.0/0"
+        },
+        "EcsEndpoint": {
+            "Type": "String",
+            "Description": "Optional - Specifies the ECS Endpoint for the ECS Agent to connect to\n",
+            "Default": ""
+        },
+        "VpcAvailabilityZones": {
+            "Type": "CommaDelimitedList",
+            "Description": "Specifies a comma-separated list of 3 VPC Availability Zones for the creation of new subnets. These zones must have the available status.\n",
+            "Default": ""
+        },
+        "EbsVolumeSize": {
+            "Type": "Number",
+            "Description": "Optional - Specifies the Size in GBs, of the newly created Amazon Elastic Block Store (Amazon EBS) volume\n",
+            "Default": "0"
+        },
+        "EbsVolumeType": {
+            "Type": "String",
+            "Description": "Optional - Specifies the Type of (Amazon EBS) volume",
+            "Default": "",
+            "AllowedValues": [
+                "",
+                "standard",
+                "io1",
+                "gp2",
+                "sc1",
+                "st1"
+            ],
+            "ConstraintDescription": "Must be a valid EC2 volume type."
+        },
+        "DeviceName": {
+            "Type": "String",
+            "Description": "Optional - Specifies the device mapping for the Volume",
+            "Default": ""
+        }
+    }
+}
