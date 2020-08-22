@@ -143,6 +143,12 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![ecr repo](https://user-images.githubusercontent.com/4149567/90946939-62aaa800-e3f7-11ea-89d5-9d0a1a1972d1.jpg)
 
+### Click on the Respository name and then the view push command and go to the push command page
+
+
+
+
+
 
 
 
