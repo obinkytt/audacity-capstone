@@ -208,6 +208,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ## Check for the application deployment info which will specify the IP.
 ### Also check the security group of the instance and make sure the inboud rule is set to allow port 8080
 
+![ecsportIP1](https://user-images.githubusercontent.com/4149567/90964124-63891b80-e483-11ea-8efe-fa66791a01b9.jpg)
+
 
 
 
