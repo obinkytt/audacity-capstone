@@ -170,6 +170,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ## Application Deployment
 
+### Time to deploy the application on ECS Cluster
 
 
 
