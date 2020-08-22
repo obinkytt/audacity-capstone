@@ -163,6 +163,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![image pust to ECR](https://user-images.githubusercontent.com/4149567/90947553-5543ec80-e3fc-11ea-9692-80a3b10a5c9c.jpg)
 
+## check and comfirm the image is build and push to AWS Repository
+
 
 
 
