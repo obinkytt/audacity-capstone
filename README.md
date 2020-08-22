@@ -50,7 +50,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ##### AWS CloudFormation for building stacks for VPCs, EKS clusters, EKS Worker Nodes and AWS ECS container
 ##### AWS ECS, AWS ECR, AWS ECR and AWS cloud9
 
-## --------------------About my Application---------------------------
+## --------------------About my Application-------------------------
 #### This file contains information about the web application called webapp. The app is the webapp.py file. The application is a Python Flask Application that used an HTML file to display a community website I developed in WordPress. I developed this site for a Ghana Community and the community has about 100,000 users. The will app named web app run and call the index.html file which is in the template directory.
 
 
