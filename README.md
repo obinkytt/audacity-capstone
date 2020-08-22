@@ -186,7 +186,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ## Step 3: Create a Service in a cluster
 
 
-![ECS Services](https://user-images.githubusercontent.com/4149567/90949860-f7220400-e411-11ea-8b7b-3fbdd1164020.jpg)
+
 
 
 
