@@ -165,7 +165,6 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ### Check and comfirm the image is build and push to AWS Repository
 
-![image push](https://user-images.githubusercontent.com/4149567/90947741-d2bc2c80-e3fd-11ea-9aa0-c48ae8f890f5.jpg)
 
 ![image push2](https://user-images.githubusercontent.com/4149567/90947769-13b44100-e3fe-11ea-8a5f-040416d2c260.jpg)
 
