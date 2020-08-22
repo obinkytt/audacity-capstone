@@ -180,6 +180,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ### Cluster Resources
 
+![Cluster Res](https://user-images.githubusercontent.com/4149567/90949790-21bf8d00-e411-11ea-95d6-f0f823b29f9e.jpg)
+
 
 ### Step 3: Create a Service in a cluster
 
