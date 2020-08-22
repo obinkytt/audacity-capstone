@@ -185,8 +185,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 
 ## Step 3: Create a Service in a cluster.
-## This will use a cloudFormation to create Stacks, VPC, EC2 instances, Fargate and curity Groups 
-## You can choose between AWS EC2 ond AWS Fargate to build the ECS cluster
+### This will use a cloudFormation to create Stacks, VPC, EC2 instances, Fargate and curity Groups 
+### You can choose between AWS EC2 ond AWS Fargate to build the ECS cluster
 
 
 ![new cluaster services1](https://user-images.githubusercontent.com/4149567/90963208-992a0680-e47b-11ea-8818-57c89ef8dc0a.jpg)
