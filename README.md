@@ -180,16 +180,22 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ## Cluster Resources
 
+
 ![Cluster Res](https://user-images.githubusercontent.com/4149567/90949790-21bf8d00-e411-11ea-95d6-f0f823b29f9e.jpg)
 
 
 ## Step 3: Create a Service in a cluster
 
+
 ![new cluaster services1](https://user-images.githubusercontent.com/4149567/90963208-992a0680-e47b-11ea-8818-57c89ef8dc0a.jpg)
+
+### Step 4: Register a task definition and check the task is running
+
 
 ![ECS ser2](https://user-images.githubusercontent.com/4149567/90963123-e194f480-e47a-11ea-957f-c55577be460b.jpg)
 
 ## The task is runing to deploy Application
+
 
 ![new Task run](https://user-images.githubusercontent.com/4149567/90963314-37b66780-e47c-11ea-98f4-3bc1d44bc8a7.jpg)
 
