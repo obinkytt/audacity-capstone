@@ -206,7 +206,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ![new Task run](https://user-images.githubusercontent.com/4149567/90963314-37b66780-e47c-11ea-98f4-3bc1d44bc8a7.jpg)
 
 ## Check for the application deployment info which will specify the IP.
-### Also check the security group oo the instance and make sure the inboud rule is set to allow port 8080
+### Also check the security group of the instance and make sure the inboud rule is set to allow port 8080
 
 
 
