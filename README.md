@@ -151,15 +151,17 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ## Now followed the instructions to build ECR imgage from Docker Contianer
 
-### $ docker build -t udacity-capstone-image .
+#### $ docker build -t udacity-capstone-image .
 
 ![ECR build](https://user-images.githubusercontent.com/4149567/90947308-68ee5380-e3fa-11ea-8c6d-436edbea8f95.jpg)
 
 ### Tag immage to push
 
-### $ docker tag udacity-capstone-image:latest 073492515851.dkr.ecr.us-east-1.amazonaws.com/udacity-capstone-image:latest
+#### $ docker tag udacity-capstone-image:latest 073492515851.dkr.ecr.us-east-1.amazonaws.com/udacity-capstone-image:latest
 
 ### Push image to your newly created AWS repository
+
+![image pust to ECR](https://user-images.githubusercontent.com/4149567/90947553-5543ec80-e3fc-11ea-9692-80a3b10a5c9c.jpg)
 
 
 
