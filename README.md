@@ -155,7 +155,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![ECR build](https://user-images.githubusercontent.com/4149567/90947308-68ee5380-e3fa-11ea-8c6d-436edbea8f95.jpg)
 
-### Tag immage to push
+### Tag image to push
 
 #### $ docker tag udacity-capstone-image:latest 073492515851.dkr.ecr.us-east-1.amazonaws.com/udacity-capstone-image:latest
 
