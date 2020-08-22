@@ -153,6 +153,10 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ### $ docker build -t udacity-capstone-image .
 
+![ECR build](https://user-images.githubusercontent.com/4149567/90947308-68ee5380-e3fa-11ea-8c6d-436edbea8f95.jpg)
+
+
+
 
 
 
