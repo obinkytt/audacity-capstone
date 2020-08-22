@@ -149,6 +149,9 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![ecr push comd](https://user-images.githubusercontent.com/4149567/90947145-21b39300-e3f9-11ea-8e22-0a2eba7336a2.jpg)
 
+## Now followed the instructions to build ECR imgage from Docker conatianer
+
+
 
 
 
