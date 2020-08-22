@@ -215,6 +215,12 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ![ecsportIP2](https://user-images.githubusercontent.com/4149567/90964187-e5794480-e483-11ea-935c-64f379f81d52.jpg)
 
 
+## Deplyoment IP Address
+
+![ecsportIP3](https://user-images.githubusercontent.com/4149567/90964455-620d2280-e486-11ea-83a7-cc7d65671189.jpg)
+
+
+
 
 
 
