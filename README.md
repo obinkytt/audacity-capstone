@@ -200,6 +200,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ## The task is runing to deploy Application
 
+### This will take a while. About 10 to 20 munites. 
+
 
 ![new Task run](https://user-images.githubusercontent.com/4149567/90963314-37b66780-e47c-11ea-98f4-3bc1d44bc8a7.jpg)
 
