@@ -238,7 +238,15 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ![ecsport8080](https://user-images.githubusercontent.com/4149567/90964550-32aae580-e487-11ea-8487-d1a069844ba9.jpg)
 
 
+## Post-deployment add testing of your application woth Circleci
+
+
+
+
 # Note: This ptoject attacted some Amazon AWS charges.
+
+
+
 
 
 
