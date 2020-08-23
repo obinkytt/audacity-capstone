@@ -240,7 +240,9 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ## Post-deployment add testing of your application woth Circleci
 
+![App post test](https://user-images.githubusercontent.com/4149567/90982305-f087af80-e52b-11ea-8398-00649be4eaa1.jpg)
 
+## Circleci continous testing details and information
 
 
 # Note: This ptoject attacted some Amazon AWS charges.
