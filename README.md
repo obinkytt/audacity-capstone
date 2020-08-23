@@ -225,15 +225,20 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ![ecsportIP2](https://user-images.githubusercontent.com/4149567/90964187-e5794480-e483-11ea-935c-64f379f81d52.jpg)
 
 
-## Deplyoment IP Address
+## Deployment IP Address canbe found here
 
 ![ecsportIP3](https://user-images.githubusercontent.com/4149567/90964455-620d2280-e486-11ea-83a7-cc7d65671189.jpg)
+
 
 ## Copy and paste IP Address and add port 8080 to access the Application.
 
 ## 54.165.145.123:8080 
 
+
 ![ecsport8080](https://user-images.githubusercontent.com/4149567/90964550-32aae580-e487-11ea-8487-d1a069844ba9.jpg)
+
+
+# Note: This ptoject attacted some Amazon AWS charges.
 
 
 
