@@ -215,6 +215,11 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![ecsportIP1](https://user-images.githubusercontent.com/4149567/90964124-63891b80-e483-11ea-8efe-fa66791a01b9.jpg)
 
+## AWS ECS Deplymnet information
+
+![Cluster deply](https://user-images.githubusercontent.com/4149567/90981790-a2bd7800-e528-11ea-803d-cadfd523c220.jpg)
+
+
 ## We can find the application deploymnet IP Address here
 
 ![ecsportIP2](https://user-images.githubusercontent.com/4149567/90964187-e5794480-e483-11ea-935c-64f379f81d52.jpg)
