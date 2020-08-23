@@ -1,4 +1,4 @@
-# Audacity DevOps Capstone -Williams Obinkyereh
+# Audacity DevOps Capstone-Williams Obinkyereh
 
 ## Project Requiremnet
 
@@ -173,7 +173,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 ![image push2](https://user-images.githubusercontent.com/4149567/90947769-13b44100-e3fe-11ea-8a5f-040416d2c260.jpg)
 
-## Application Deployment
+## Application Deployment: With Rolling Deployment Using Amazon AWS ECS
 
 ### Time to deploy the application on ECS Cluster in Amazon AWS. I used Amazon AWS Managemnet Console
 
