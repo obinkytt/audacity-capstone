@@ -251,8 +251,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 
 
 
-# Note: This ptoject attracted some Amazon AWS charges. 
-# The Appliaction will be up for 2 days and I will delete all AWS intnaces and services after 2 days time.
+## Note: This ptoject attracted some Amazon AWS charges. 
+## The Appliaction will be up for 2 days and I will delete all AWS intnaces and services after 2 days time.
 
 
 
