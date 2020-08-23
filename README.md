@@ -54,10 +54,7 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 #### This file contains information about the web application called webapp. The app is the webapp.py file. The application is a Python Flask Application that used an HTML file to display a community website I developed in WordPress. I developed this site for a Ghana Community and the community has about 100,000 users. The will app named web app run and call the index.html file which is in the template directory.
 
 ## Project CI/CD PIPELINE
-
 ![Pipeline](https://user-images.githubusercontent.com/4149567/90983365-3dbb4f80-e533-11ea-99ae-98d1ffca9eb9.jpg)
-
-
 
 ##  -----------------------The Project--------------------------------
 ### Preparing the project ernviroment
