@@ -53,6 +53,8 @@ Deploying these Docker container(s) to a small Kubernetes cluster. For your Kube
 ## --------------------About my Application-------------------------
 #### This file contains information about the web application called webapp. The app is the webapp.py file. The application is a Python Flask Application that used an HTML file to display a community website I developed in WordPress. I developed this site for a Ghana Community and the community has about 100,000 users. The will app named web app run and call the index.html file which is in the template directory.
 
+![Presentation1](https://user-images.githubusercontent.com/4149567/90983607-0cdc1a00-e535-11ea-8273-cc8e6d1fb3c2.jpg)
+
 ##  -----------------------The Project--------------------------------
 ### Preparing the project ernviroment
 ##### Login to Github and create a new repository (audacity-capstone )
